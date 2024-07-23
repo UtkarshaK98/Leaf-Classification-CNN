@@ -44,17 +44,3 @@ This software has the following requirements:
 * `NumPy` 1.11 or later
 * `TensorFlow`
 * `Matplotlib`
-  
-### Installation
-
-```
-git clone https://github.com/adl1995/leaf-classification.git
-cd leaf-classification
-pip install -r requirements.txt
-python learn.py
-```
-
-## License
-
-This project is not under any license.
-
